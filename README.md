@@ -9,4 +9,4 @@
 - 📫 How to reach me: ... tvenkatesh799@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...introextrovert
-
+https://github-readme-stats.vercel.app/api?username=venkatesh799&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
