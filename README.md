@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on     
 - 🌱 I’m currently learning  ``` Machine Learning ```
 - 👯 I’m looking to collaborate on ``` YouTube ```
-- 🤔 I’m looking for help with ```Machine Learning 📈📊```
+- 🤔 I’m looking for help with ``` Data Analytics  📈📊```
 - 💬 Ask me about ```Anything```
 - 📫 How to reach me: tvenkatesh799@gmail.com
 - 😄 Pronouns ```He/Him```
