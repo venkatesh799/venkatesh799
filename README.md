@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on     ``` DSA ```
 - 🌱 I’m currently learning  ``` Machine Learning ```
-- 👯 I’m looking to collaborate on ``` YouTube ```
+- 👯 I’m looking to collaborate on ``` CP ```
 - 🤔 I’m looking for help with ``` Data Analytics  📈📊```
 - 💬 Ask me about ```Anything```
 - 📫 How to reach me: tvenkatesh799@gmail.com
